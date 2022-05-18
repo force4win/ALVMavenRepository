@@ -3,11 +3,11 @@
 
 
 
-MENTION SPECIAL TO:
+# MENTION SPECIAL TO:
 The original master
 https://github.com/renaudcerrato/appengine-maven-repository.git
 
-
+* all of this was wrote for  renaudcerrato
 
 
 
